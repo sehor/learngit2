@@ -11,3 +11,4 @@ Here is a bug but it has been fixed.
 something in dev.
 half work needed to be stashed in dev.
 work done in dev.
+add ignore file.
