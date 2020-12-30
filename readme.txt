@@ -7,4 +7,4 @@ one new line in main.
 two new line in featrue2 1.
 two new line in featrue2 2.
 another line in main.
-Here is a bug.
+Here is a bug but it has been fixed.
